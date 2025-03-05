@@ -1,0 +1,4 @@
+arroz,perecivel,140,4.8
+feijao,perecivel,244,7.34
+macarrao,perecivel,100,5.48
+cominho,temperos,8,15.0
