@@ -1,7 +1,8 @@
 # Sistema de Gestão para Lojas Condimentos Bom Jesus
 ## Link para a Documentação
 
-A documentação completa do projeto pode ser encontrada [aqui]([https://docs.google.com/document/d/1MaJqQFF0VUvH_ecQKQRh2ho6i8U8x-Ov/edit?usp=sharing&ouid=110255632272579881467&rtpof=true&sd=true)
+A documentação completa do projeto pode ser encontrada [aqui](https://docs.google.com/document/d/1MaJqQFF0VUvH_ecQKQRh2ho6i8U8x-Ov/edit?usp=sharing&ouid=110255632272579881467&rtpof=true&sd=true).
+
 
 ## Objetivo do Projeto
 
